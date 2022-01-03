@@ -6,6 +6,7 @@ pizza
 pastha
 Chiken fry
 
-
+Beans
+Samosa
 
 Thank  you :)
